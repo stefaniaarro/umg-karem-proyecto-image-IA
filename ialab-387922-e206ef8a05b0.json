@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ialab-387922",
+  "private_key_id": "e206ef8a05b0bde71f9bfa52e60dad9cf0062502",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIUPppfHSEN0Ss\nZSf3k4qMPxyt8NW8EoZdScok/hyVu9M2y1QLmnlnKkwToTlkv2HbpGyP778MP0jA\n1vBDQRh0a0I4oLNicAP1A4sL488ABLO6w0hH68rho3VDXLISKb1mMvZIEGZkyeOa\nNjTLryf0iGgVQXtvmHGmRrAMiL2j9aic1l1/r026QMcutCNdbrNhFywKWbUzCH5f\n5wHqr+5Fy/Y7LVuHqssp75lzZC2veCuwcSyGdpzT4kDm8A2cD3YyU8WEr+jnFDqE\nLwEekoA9yORvtLiriAtd0H6JP+4VanOMKDNBi56YuUNBujCLGcKvKjiuaR1XQTr8\nVRR3Oem1AgMBAAECggEABeg1ajTsVRXLWNYaA2sxzVVZg1uajrnXhbRUv+bqcUch\nQSvMmUb/e3/vNfwtu0w744RwWx8NYDWuViZAd/GmE5DLwOwkPhJIwf0a9ZYzMLBZ\nNUTnwo8wFwIaxb2PCfAT9yNbleAKu1m+Wq05Voq38xyupqnQRqGVM5UNp5QrG3gB\n4nZf67PHRhaniLMvLMrt+HLbFg60rjfGXOL9HOf27A3LAiek+7/qP5Cpco+P64ZN\njkgNiubn2yQw5A5+79S5Dj9OyV4ppBqsNesFE1PG8j7hB/5AA5qln8UGX5+7I6ec\nI2ekzxsibzBK/sTbpq45eZuFwON6kpOFn24JuSCT4QKBgQDvtm5D2dtntQk9vWkp\nssrOhhWIMNM7JcAXOONmiKmcbM3WW+CYvKY4Px5CyvoCIvu+iYpCeWYj4laYEKbi\nFeNawU71rw/pyOXlYqxdWTZiDoFR1IGwMiVqkXP1fvqrvVPJBTnzjLJhJzqtdEQf\nYHJyEHfjws0D1Molpu+u8E0tWQKBgQDV7UlzQ0LoE/TZ/JpWeVLAWe4SC3cegLss\nHkcjHpcZY5Z59GhZHS9+FVL3VXAey1LtkI3eZnHWzSNhKu6eU7+iWMhglMb+J8Ge\nClM37PxxUOwObI+tcA088deg4I6Ym0fxlC3vi70+uaTekfOIyi7pNthapC5OK4ed\nbvrm19IHvQKBgQCr2/VN/AFLZwXLF+MvnBm+227Qh4DJpRUFESonts8zcOZaSuDJ\nYGcjaE0/wdpgcchfIKjZY8QQ8hL3Tuj2qo6n4HPFvM8B46C/RnEhM/bDcnbQvjSE\nqE8fCk1CstjxC/nn4zFbJYI2GTP+a57zh+hFUv1Bc8YcexC60eaBW5NZcQKBgGhO\n2diEvFPSnznGzC5L28iEUOulgYBy/lCltsPt/3jWsSFnxZVmAKk2loyYsSGivB2v\ntSzywKEexxhyyYSTi0YKijFleZ2lHugDWs5TFEfgUCk8T9YeY6YKubvsojrQxASL\n3tYFSdISzMvlWFyjULpQDrAri5R77xUZbuct5m/1AoGBAOjWZ74Ys3c6hSzZsKV9\n4jDgUlCYU/0SObRKK8QtC1xPWDFnHlxQjjcJTwvcLNHP4Ipj6PZPOcgOz929qJ/M\ngJZguNfe7dQnEssKueiwT1xpaHcyEuzBV+A3UwkNXBueu1P/yBk0lVJdaRf2MsEV\nb7P19Arerk67HX9Aj+rvn6YX\n-----END PRIVATE KEY-----\n",
+  "client_email": "iacoudvisionservice@ialab-387922.iam.gserviceaccount.com",
+  "client_id": "101725855356041042782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iacoudvisionservice%40ialab-387922.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
